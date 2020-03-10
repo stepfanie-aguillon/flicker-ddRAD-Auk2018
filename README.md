@@ -1,4 +1,4 @@
-# flicker-ddRAD-Auk2018
+# Scripts for Aguillon et al. (2018)
 
 This repository contains the code used in the manuscript: 
 
